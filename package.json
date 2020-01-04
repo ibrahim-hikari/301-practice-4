@@ -1,0 +1,19 @@
+{
+  "name": "301-practice-4",
+  "version": "1.0.0",
+  "description": "1. **In an express server application, what does dotenv do**",
+  "main": "app.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahim-hikari/301-practice-4.git"
+  },
+  "author": "ibrahim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibrahim-hikari/301-practice-4/issues"
+  },
+  "homepage": "https://github.com/ibrahim-hikari/301-practice-4#readme"
+}
